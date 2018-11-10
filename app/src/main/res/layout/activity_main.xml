@@ -93,6 +93,23 @@
         android:layout_marginRight="145dp"
         android:layout_marginBottom="166dp"
         android:onClick="process"
-        android:text="Images" />
+        android:text="Toast" />
+
+    <Button
+        android:id="@+id/f"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="125dp"
+        android:layout_marginLeft="125dp"
+        android:layout_marginEnd="130dp"
+        android:layout_marginRight="130dp"
+        android:layout_marginBottom="88dp"
+        android:onClick="process"
+        android:text="Custom Toast" />
 
 </RelativeLayout>
